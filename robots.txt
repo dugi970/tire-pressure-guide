@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tires.dataspecshub.com/sitemap.xml
