@@ -1,0 +1,138 @@
+make,model,year,trim,tire_size,front_psi,rear_psi
+Ford,F-150,2026,XL Work Truck (17-inch Wheels),245/70R17,35,35
+Ford,F-150,2026,XLT / Lariat (18-inch Wheels),275/65R18,35,35
+Ford,F-150,2026,King Ranch / Platinum (20-inch Wheels),275/60R20,35,35
+Ford,F-150,2025,Tremor Off-Road (18-inch Wheels),275/70R18,36,36
+Ford,F-150,2025,Raptor High Performance (35-inch Tires),315/70R17,38,38
+Ford,F-150,2024,Limited Premium (22-inch Wheels),275/45R22,35,35
+Ford,F-150,2022,XLT Chrome Package (18-inch Wheels),275/65R18,35,35
+Ford,F-150,2018,XL / XLT Base (17-inch Wheels),245/70R17,35,35
+Ford,F-150,2015,Lariat Luxury (20-inch Wheels),275/55R20,35,35
+Ford,Explorer,2026,Active / ST-Line (18-inch Wheels),255/65R18,33,33
+Ford,Explorer,2025,ST Sport / Platinum (21-inch Wheels),275/45R21,35,35
+Ford,Explorer,2023,Limited / Timberline (20-inch Wheels),255/55R20,33,33
+Ford,Explorer,2020,Base / XLT Family (18-inch Wheels),255/65R18,33,33
+Ford,Explorer,2017,XLT / Limited (20-inch Wheels),255/50R20,35,35
+Ford,Mustang,2026,EcoBoost Fastback (18-inch Wheels),235/50R18,32,32
+Ford,Mustang,2025,GT Coupe Premium (19-inch Wheels),255/40R19,32,32
+Ford,Mustang,2024,Dark Horse (19-inch Wheels),275/35R19,34,34
+Ford,Mustang,2021,EcoBoost Standard (17-inch Wheels),235/55R17,32,32
+Ford,Mustang,2019,GT Performance Pack (19-inch Wheels),255/40R19,32,32
+Ford,Mustang,2015,V6 / EcoBoost Base (17-inch Wheels),235/55R17,32,32
+Ford,Maverick,2025,XL / XLT Hybrid (17-inch Wheels),225/65R17,35,35
+Ford,Maverick,2024,Lariat EcoBoost (18-inch Wheels),225/60R18,35,35
+Ford,Maverick,2023,Tremor Off-Road (17-inch Wheels),235/65R17,35,35
+Ford,Escape,2025,Active / ST-Line (17-inch Wheels),225/65R17,33,33
+Ford,Escape,2024,Platinum Luxe (19-inch Wheels),225/55R19,33,33
+Ford,Escape,2020,SE / SEL Medium SUV (18-inch Wheels),225/60R18,33,33
+Ford,Escape,2016,S / SE Compact (17-inch Wheels),235/55R17,32,32
+Ford,Bronco,2025,Big Bend / Black Diamond (17-inch Wheels),255/75R17,35,35
+Ford,Bronco,2025,Outer Banks Luxury (18-inch Wheels),255/70R18,35,35
+Ford,Bronco,2024,Badlands / Wildtrak Sasquatch (35-inch Tires),315/70R17,35,35
+Ford,Bronco Sport,2025,Big Bend / Heritage (17-inch Wheels),225/65R17,33,33
+Ford,Bronco Sport,2024,Badlands Off-Road (17-inch Wheels),235/65R17,33,33
+Ford,Edge,2024,SE / SEL Mid-Size (18-inch Wheels),245/60R18,35,35
+Ford,Edge,2023,Titanium / ST Sport (20-inch Wheels),245/50R20,35,35
+Ford,Ranger,2025,XL / XLT Mid-Size Truck (17-inch Wheels),255/70R17,36,36
+Ford,Ranger,2024,Lariat / Raptor Off-Road (17-inch Wheels),285/70R17,38,38
+Toyota,Camry,2026,LE / SE Hybrid (17-inch Wheels),215/55R17,35,35
+Toyota,Camry,2025,SE / XSE Sport Hybrid (18-inch Wheels),235/45R18,35,35
+Toyota,Camry,2025,XLE Premium Hybrid (19-inch Wheels),235/40R19,35,35
+Toyota,Camry,2023,LE / SE Gas (17-inch Wheels),215/55R17,35,35
+Toyota,Camry,2022,TRD V6 Performance (19-inch Wheels),235/40R19,35,35
+Toyota,Camry,2020,XLE / XSE Luxury (18-inch Wheels),235/45R18,35,35
+Toyota,Camry,2017,LE / XLE Classic (16-inch Wheels),215/60R16,35,35
+Toyota,RAV4,2026,LE / XLE Compact SUV (17-inch Wheels),225/65R17,35,35
+Toyota,RAV4,2025,XLE Premium / Limited (18-inch Wheels),225/60R18,35,35
+Toyota,RAV4,2025,Adventure / TRD Off-Road (19-inch Wheels),235/55R19,35,35
+Toyota,RAV4,2023,Hybrid Woodland Edition (17-inch Wheels),225/65R17,35,35
+Toyota,RAV4,2021,XSE Hybrid Sport (18-inch Wheels),225/60R18,35,35
+Toyota,RAV4,2018,LE / XLE Generation 4 (17-inch Wheels),225/65R17,32,32
+Toyota,Tacoma,2026,SR / SR5 Gen 4 (17-inch Wheels),245/70R17,32,32
+Toyota,Tacoma,2025,TRD Sport / Off-Road (17-inch Wheels),265/70R17,32,32
+Toyota,Tacoma,2025,Trailhunter / TRD Pro (18-inch Wheels),265/65R18,35,35
+Toyota,Tacoma,2022,SR5 Mid-Size Truck (16-inch Wheels),245/75R16,30,30
+Toyota,Tacoma,2021,TRD Off-Road Classic (16-inch Wheels),265/70R16,30,30
+Toyota,Tacoma,2016,TRD Sport Gen 3 (17-inch Wheels),265/65R17,30,30
+Toyota,Tundra,2025,SR / SR5 CrewMax (18-inch Wheels),245/75R18,36,36
+Toyota,Tundra,2024,Limited / Platinum Full-Size (20-inch Wheels),265/60R20,36,36
+Toyota,Tundra,2024,TRD Pro Off-Road (18-inch Wheels),285/65R18,36,36
+Toyota,Tundra,2019,SR5 / Limited V8 (18-inch Wheels),255/70R18,30,33
+Toyota,Highlander,2025,LE / XLE Family SUV (18-inch Wheels),235/65R18,36,36
+Toyota,Highlander,2024,Limited / Platinum (20-inch Wheels),235/55R20,36,36
+Toyota,Highlander,2021,XSE Sport Trim (20-inch Wheels),235/55R20,36,36
+Toyota,Highlander,2017,LE / XLE Mid-Size (18-inch Wheels),245/60R18,36,36
+Toyota,Grand Highlander,2025,XLE / Limited Large SUV (20-inch Wheels),255/55R20,36,36
+Toyota,Grand Highlander,2024,Platinum MAX Hybrid (20-inch Wheels),255/55R20,36,36
+Toyota,Corolla,2025,LE Standard Sedan (16-inch Wheels),205/55R16,35,35
+Toyota,Corolla,2025,SE / XSE Sporty (18-inch Wheels),225/40R18,33,33
+Toyota,Corolla,2022,LE Commuter Sedan (16-inch Wheels),205/55R16,35,35
+Toyota,Corolla,2018,L / LE Classic (16-inch Wheels),205/55R16,32,32
+Toyota,Sienna,2025,LE / XLE Hybrid Minivan (17-inch Wheels),235/65R17,35,35
+Toyota,Sienna,2024,XSE / Platinum Luxury (18-inch Wheels),235/60R18,35,35
+Toyota,4Runner,2025,SR5 / TRD Off-Road (17-inch Wheels),265/70R17,32,32
+Toyota,4Runner,2024,Limited Luxury SUV (20-inch Wheels),245/60R20,32,32
+Toyota,4Runner,2021,TRD Pro Heritage (17-inch Wheels),265/70R17,32,32
+Toyota,4Runner,2016,SR5 Trail Classic (17-inch Wheels),265/70R17,32,32
+Toyota,Prius,2025,LE / XLE Efficient (19-inch Wheels),195/50R19,35,33
+Toyota,Prius,2024,XSE Premium Hybrid (19-inch Wheels),195/50R19,35,33
+Toyota,Prius,2020,L Eco / LE Generation 4 (15-inch Wheels),195/65R15,36,35
+Honda,Civic,2026,Sport Hybrid Sedan (17-inch Wheels),215/50R17,33,32
+Honda,Civic,2025,LX / Sport Base (16-inch Wheels),215/55R16,32,32
+Honda,Civic,2025,Sport Touring Hybrid (18-inch Wheels),235/40R18,32,32
+Honda,Civic,2024,EX / Touring Luxury (17-inch Wheels),215/50R17,33,32
+Honda,Civic,2023,Type R Track Ready (19-inch Wheels),265/30ZR19,35,33
+Honda,Civic,2021,LX / EX Generation 10 (16-inch Wheels),215/55R16,32,32
+Honda,Civic,2018,Si Sport Coupe (18-inch Wheels),235/40R18,32,32
+Honda,Civic,2016,LX / EX Base Sedan (16-inch Wheels),215/55R16,32,32
+Honda,CR-V,2026,LX / EX Standard SUV (18-inch Wheels),235/60R18,33,30
+Honda,CR-V,2025,Sport / Sport Touring Hybrid (19-inch Wheels),235/55R19,33,30
+Honda,CR-V,2024,EX-L Premium Trim (18-inch Wheels),235/60R18,33,30
+Honda,CR-V,2021,LX / EX Generation 5 (17-inch Wheels),235/65R17,32,30
+Honda,CR-V,2019,EX / Touring Luxe (18-inch Wheels),235/60R18,32,30
+Honda,CR-V,2015,LX / EX Compact (16-inch Wheels),215/70R16,33,33
+Honda,Accord,2025,LX / EX Daily Drive (17-inch Wheels),225/50R17,32,32
+Honda,Accord,2025,Sport / Touring Hybrid (19-inch Wheels),235/40R19,33,32
+Honda,Accord,2023,EX-L Hybrid Efficiency (17-inch Wheels),225/50R17,32,32
+Honda,Accord,2021,Sport / 2.0T Turbo (19-inch Wheels),235/40R19,33,32
+Honda,Accord,2018,LX / EX Generation 10 (17-inch Wheels),225/50R17,32,32
+Honda,Accord,2016,LX / EX Sedan V6 (17-inch Wheels),215/55R17,33,32
+Honda,Pilot,2026,Sport / EX-L Full SUV (18-inch Wheels),255/60R18,35,35
+Honda,Pilot,2025,TrailSport Rugged Off-Road (18-inch Wheels),265/60R18,35,35
+Honda,Pilot,2025,Touring / Elite Luxury (20-inch Wheels),255/50R20,35,35
+Honda,Pilot,2022,EX-L / Special Edition (20-inch Wheels),245/50R20,32,32
+Honda,Pilot,2019,LX / EX Large Family (18-inch Wheels),245/60R18,32,32
+Honda,Odyssey,2025,EX-L / Sport Family Van (19-inch Wheels),235/55R19,35,35
+Honda,Odyssey,2024,Touring / Elite Premium (19-inch Wheels),235/55R19,35,35
+Honda,Odyssey,2020,EX / EX-L Minivan (18-inch Wheels),235/60R18,33,33
+Honda,HR-V,2025,LX / Sport Crossover (17-inch Wheels),215/60R17,32,32
+Honda,HR-V,2024,EX-L Premium Compact (17-inch Wheels),215/60R17,32,32
+Honda,Passport,2025,TrailSport Rugged (18-inch Wheels),245/60R18,35,35
+Honda,Ridgeline,2025,Sport / RTL Mid-Size Truck (18-inch Wheels),245/60R18,35,35
+Chevrolet,Silverado 1500,2026,WT / Custom Utility (17-inch Wheels),255/70R17,35,35
+Chevrolet,Silverado 1500,2026,LT / RST Crew Cab (18-inch Wheels),265/65R18,35,35
+Chevrolet,Silverado 1500,2025,LTZ / High Country Luxe (20-inch Wheels),275/60R20,35,35
+Chevrolet,Silverado 1500,2025,ZR2 Extreme Off-Road (18-inch Wheels),275/70R18,38,38
+Chevrolet,Silverado 1500,2023,Custom Trail Boss (18-inch Wheels),275/65R18,35,35
+Chevrolet,Silverado 1500,2021,LT Z71 Package (18-inch Wheels),265/65R18,35,35
+Chevrolet,Silverado 1500,2019,High Country V8 (20-inch Wheels),275/55R20,35,35
+Chevrolet,Silverado 1500,2016,WT / LT Classic (17-inch Wheels),255/70R17,35,35
+Chevrolet,Equinox,2026,LT / RS Compact SUV (17-inch Wheels),225/65R17,35,35
+Chevrolet,Equinox,2025,ACTIV Off-Road Style (19-inch Wheels),235/55R19,35,35
+Chevrolet,Equinox,2023,LS / LT Family Edition (17-inch Wheels),225/65R17,35,35
+Chevrolet,Equinox,2020,Premier Luxury Trim (19-inch Wheels),235/50R19,35,35
+Chevrolet,Equinox,2017,LS / LT Generation 2 (17-inch Wheels),225/65R17,35,35
+Chevrolet,Tahoe,2025,LS / LT Full-Size SUV (18-inch Wheels),265/65R18,35,35
+Chevrolet,Tahoe,2025,RST Sport / Premier Luxury (22-inch Wheels),275/42R22,35,35
+Chevrolet,Tahoe,2024,Z71 Off-Road Package (20-inch Wheels),275/60R20,35,35
+Chevrolet,Tahoe,2021,High Country Executive (22-inch Wheels),275/50R22,35,35
+Chevrolet,Tahoe,2018,LT / Premier Family (20-inch Wheels),275/55R20,35,35
+Chevrolet,Suburban,2025,LT / Premier Extra Large (20-inch Wheels),275/60R20,35,35
+Chevrolet,Suburban,2024,High Country Ultimate (22-inch Wheels),275/50R22,35,35
+Chevrolet,Camaro,2024,LT / RS Sport Coupe (18-inch Wheels),245/50R18,32,32
+Chevrolet,Camaro,2023,SS V8 Performance (20-inch Wheels),245/40ZR20,35,38
+Chevrolet,Camaro,2020,ZL1 Track Muscle (20-inch Wheels),285/30ZR20,35,35
+Chevrolet,Colorado,2025,LT / Z71 Mid-Size Truck (17-inch Wheels),255/65R17,35,35
+Chevrolet,Colorado,2024,ZR2 Off-Road Specialist (17-inch Wheels),285/70R17,36,36
+Chevrolet,Trax,2025,LS / LT Compact Urban (17-inch Wheels),225/60R17,35,35
+Chevrolet,Trax,2025,ACTIV / 2RS Sporty (18-inch Wheels),225/55R18,35,35
